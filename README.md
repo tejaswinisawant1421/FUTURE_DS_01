@@ -12,16 +12,7 @@ A professional Power BI dashboard designed to analyze business sales, profitabil
 
 This project was developed as part of the **Future Interns Data Science & Analytics – Task 1: Business Sales Performance Analytics**.
 
-The objective was to transform raw business sales data into a professional, interactive dashboard that can help business stakeholders understand:
-
-- Sales performance
-- Revenue trends
-- Product performance
-- Category and sub-category performance
-- Regional profitability
-- Customer performance
-- Discount impact
-- Profitability patterns
+The objective was to transform raw business sales data into a professional, interactive dashboard that helps business stakeholders understand sales performance, profitability, product performance, regional performance, customer contribution, and discount impact.
 
 The project follows a complete analytics workflow:
 
@@ -127,7 +118,7 @@ Important fields were validated with appropriate data types, including:
 
 # 📈 Dashboard
 
-The final Power BI dashboard consists of **three analytical pages**, following a progressive business storytelling structure:
+The final Power BI dashboard consists of **three analytical pages**:
 
 **Executive Overview → Product Analysis → Regional & Customer Analysis**
 
@@ -160,7 +151,7 @@ The first page provides an executive-level overview of overall business performa
 - Category
 - Segment
 
-This page allows stakeholders to quickly understand the overall health of the business and explore performance using interactive filters.
+This page provides a high-level view of overall business performance and allows stakeholders to explore the results using interactive filters.
 
 ---
 
@@ -310,33 +301,35 @@ The dashboard provides a centralized view of business performance and can help s
 The project transforms transaction-level sales data into an interactive format that can be quickly understood by business stakeholders.
 
 ---
-## 📸 Dashboard Screenshots
 
-### Page 1 – Executive Overview
+# 📸 Dashboard Screenshots
 
-![Page 1 Executive Overview](Screenshots/Page1_Executive_Overview.png)
+## Page 1 – Executive Overview
 
-### Page 2 – Product Performance & Profitability
+![Page 1 – Executive Overview](Page1_Executive_Overview.png)
 
-![Page 2 Product Performance Profitability](Screenshots/Page2_Product_Performance_Profitability.png)
+## Page 2 – Product Performance & Profitability
 
-### Page 3 – Regional & Customer Insights
+![Page 2 – Product Performance & Profitability](Page2_Product_Performance_Profitability.png)
 
-![Page 3 Regional Customer Insights](Screenshots/Page3_Regional_Customer_Insights.png)
+## Page 3 – Regional & Customer Insights
+
+![Page 3 – Regional & Customer Insights](Page3_Regional_Customer_Insights.png)
 
 ---
 
 # 📁 Project Structure
 
+```text
 FUTURE_DS_01/
 │
 ├── Documentation/
 │   └── Project_Documentation.pdf
 │
 ├── Screenshots/
-│   ├── Page_1_Executive_Overview.png
-│   ├── Page_2_Product_Performance_Profitability.png
-│   └── Page_3_Regional_Customer_Insights.png
+│   ├── Page1_Executive_Overview.png
+│   ├── Page2_Product_Performance_Profitability.png
+│   └── Page3_Regional_Customer_Insights.png
 │
 ├── README.md
 │
