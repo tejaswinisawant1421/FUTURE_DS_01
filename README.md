@@ -310,19 +310,19 @@ The dashboard provides a centralized view of business performance and can help s
 The project transforms transaction-level sales data into an interactive format that can be quickly understood by business stakeholders.
 
 ---
-# 📸 Dashboard Screenshots
+## 📸 Dashboard Screenshots
 
-## Page 1 – Executive Overview
+### Page 1 – Executive Overview
 
-![Page 1 – Executive Overview](Screenshots/Page1_Executive_Overview.png)
+![Page 1 Executive Overview](Screenshots/Page1_Executive_Overview.png)
 
-## Page 2 – Product Performance & Profitability
+### Page 2 – Product Performance & Profitability
 
-![Page 2 – Product Performance & Profitability](Screenshots/Page2_Product_Performance_Profitability.png)
+![Page 2 Product Performance Profitability](Screenshots/Page2_Product_Performance_Profitability.png)
 
-## Page 3 – Regional & Customer Insights
+### Page 3 – Regional & Customer Insights
 
-![Page 3 – Regional & Customer Insights](Screenshots/Page3_Regional_Customer_Insights.png)
+![Page 3 Regional Customer Insights](Screenshots/Page3_Regional_Customer_Insights.png)
 ---
 
 # 📁 Project Structure
