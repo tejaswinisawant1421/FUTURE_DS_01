@@ -315,15 +315,16 @@ The project transforms transaction-level sales data into an interactive format t
 
 ## Page 1 – Executive Overview
 
-![Executive Overview](Screenshots/Page_1_Executive_Overview.png)
+Page1_Executive_Overview.png
+
 
 ## Page 2 – Product Performance & Profitability
 
-![Product Performance](Screenshots/Page_2_Product_Performance_Profitability.png)
+Page2_Product_Performance_Profitability.png
 
 ## Page 3 – Regional & Customer Insights
 
-![Regional & Customer Insights](Screenshots/Page_3_Regional_Customer_Insights.png)
+Page3_Regional_Customer_Insights.png
 
 ---
 
