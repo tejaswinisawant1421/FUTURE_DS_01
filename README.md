@@ -310,7 +310,6 @@ The dashboard provides a centralized view of business performance and can help s
 The project transforms transaction-level sales data into an interactive format that can be quickly understood by business stakeholders.
 
 ---
-
 # 📸 Dashboard Screenshots
 
 ## Page 1 – Executive Overview
@@ -324,7 +323,6 @@ The project transforms transaction-level sales data into an interactive format t
 ## Page 3 – Regional & Customer Insights
 
 ![Page 3 – Regional & Customer Insights](Screenshots/Page3_Regional_Customer_Insights.png)
-
 ---
 
 # 📁 Project Structure
