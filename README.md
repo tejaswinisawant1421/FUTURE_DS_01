@@ -323,6 +323,7 @@ The project transforms transaction-level sales data into an interactive format t
 ### Page 3 – Regional & Customer Insights
 
 ![Page 3 Regional Customer Insights](Screenshots/Page3_Regional_Customer_Insights.png)
+
 ---
 
 # 📁 Project Structure
